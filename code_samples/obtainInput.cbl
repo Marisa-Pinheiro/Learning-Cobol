@@ -16,9 +16,9 @@
     
      
        PROCEDURE DIVISION. 
-           0100-START-HERE.
+       0100-START-HERE .
                DISPLAY "Hello! Please enter your name:".
                ACCEPT NAME.
                DISPLAY "It's nice to meet you, ", NAME.
-       STOP RUN.
+           STOP RUN.
        END PROGRAM OBTAININPUT.
