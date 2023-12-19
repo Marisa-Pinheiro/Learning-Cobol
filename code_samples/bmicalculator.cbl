@@ -1,5 +1,6 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. "BMICALCULATOR"
+       PROGRAM-ID. "BMICALCULATOR".
+
 
        ENVIRONMENT DIVISION. 
 
@@ -16,7 +17,7 @@
        0100-START-HERE .
            DISPLAY "Enter your height in inches.".
            ACCEPT HEIGHT_INCHES.
-           DISPLAY "Enter your wight in pounds".
+           DISPLAY "Enter your weight in pounds".
            ACCEPT WEIGHT.
       * Calculation of BMI, COMPUTE is a reserved verb.
       * (The COMPUTE command assigns the value of an arithmetic 
