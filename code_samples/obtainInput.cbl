@@ -8,7 +8,8 @@
       *Place to store variables
       *To declare a variable: start with a level number
       *(Level number: A level number is a one-digit or two-digit int
-      *between 01 and 49, or one of three special level numbers: 66, 77, or 88)  
+      *between 01 and 49, or one of three special level numbers: 
+      *66, 77, or 88)  
       *01 -> the lowest level number === highest level of element.
 
       *PIC (picture) clause -> byte-by-byte def of the format of a var.
